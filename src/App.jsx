@@ -8,8 +8,8 @@ import Meals from './component/Meal'
 export default function App() {
   return (
     <main>
-      {/* <Search />
-      <Favorite />
+      <Search />
+      {/* <Favorite />
       <Modal /> */}
       <Meals />
     </main>
